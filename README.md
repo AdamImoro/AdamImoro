@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdamImoro
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and machine learning
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...on 0594489023
